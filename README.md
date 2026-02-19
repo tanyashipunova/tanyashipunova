@@ -1,5 +1,7 @@
 ### Hi there 👋
+💡 got idea
 
+🚀 thinking to re-launch my activity on github
 <!--
 **tanyashipunova/tanyashipunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
