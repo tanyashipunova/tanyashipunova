@@ -2,6 +2,8 @@
 💡 got idea
 
 🚀 thinking to re-launch my activity on github
+
+🎉 my new project in Python 👉 [here](https://github.com/tanyashipunova/vasotapy)
 <!--
 **tanyashipunova/tanyashipunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
