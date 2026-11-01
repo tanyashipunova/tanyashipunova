@@ -1,7 +1,7 @@
 # RESUME PROFILE: AI Product Builder
 
 ## Professional Summary
-Passionate AI Engineeer with a proven track record of designing, building, and deploying secure, multi-agent LLM systems. Expert in creating autonomous assistants, implementing strict AI safety guardrails, and building FinOps budgeting tools for planning API token costs. Adept at turning theoretical AI workflows into predictable, data-driven business solutions.
+Passionate AI Engineer with a proven track record of designing, building, and deploying secure, multi-agent LLM systems. Expert in creating autonomous assistants, implementing strict AI safety guardrails, and building FinOps budgeting tools for planning API token costs. Adept at turning theoretical AI workflows into predictable, data-driven business solutions.
 
 ------------------------------
 # Hard Skills
