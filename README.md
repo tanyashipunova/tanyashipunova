@@ -2,7 +2,7 @@
 
 ## 🟢 Wiki pages
 
-### [ai-agents-costs wiki](https://github.com/tanyashipunova/ai-agents-costs.wiki)
+### [ai-agents-costs wiki](https://github.com/tanyashipunova/ai-agents-costs/wiki)
 
 - [rus] Big O One. Размышление о задачах на время
 - [rus] ML-соревнование "Ранжирование рекомендаций". Заметки
@@ -13,7 +13,7 @@
 - [rus] AI-native построение карьеры: ИТ-архитектура на 100 и 10 000 сотрудников
 - [rus] Драфт стратегического отчета «AI-native подход к построению карьеры» (2026)
 
-### [vasotapy wiki](https://github.com/tanyashipunova/vasotapy.wiki)
+### [vasotapy wiki](https://github.com/tanyashipunova/vasotapy/wiki)
 
 - [eng] CLI App in Python for planned token calculation and visualization. Overview of my project
 - [eng] AI prototype "BPMN Diagram Architect". Overview of my project
